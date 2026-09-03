@@ -2,7 +2,10 @@
   "tokens": [
     "8162320534:AAHadmqT8ffCRJb17dXaV9mRUH11GEvNR0k",
     "8598914999:AAH3DE6zKYhpG8jO8cg9e6-7krS_krcMI-4",
-    "8651459189:AAHtgAtueEXtjfSrCA98Sl_asgMizclG3nw",
+    {
+      "token": "8651459189:AAHtgAtueEXtjfSrCA98Sl_asgMizclG3nw",
+      "addedBy": "@aetherotpp"
+    },
     "8508249577:AAHm1Nlue7gEhChA2aWShWhxewQLIQ_LoX8"
   ]
 }
