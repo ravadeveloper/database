@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-11-04T07:13:05.871Z",
+  "exportedAt": "2026-11-04T07:14:02.876Z",
   "bot": "ONE CRASHER",
   "users": {},
   "tokens": [
@@ -10,6 +10,16 @@
       "bot_name": "BUILDER APP AETHER",
       "status": "registered",
       "createdAt": "2026-11-04T07:13:05.864Z",
+      "owner": "8803520961",
+      "usedBy": null
+    },
+    {
+      "token": "8140583154:AAH4JCpTgDaxZWStvnYLYWsBE4kVvPrpCKg",
+      "bot_id": "8140583154",
+      "bot_username": "padlistur_bot",
+      "bot_name": "BOT FIX SC DAN BASE",
+      "status": "registered",
+      "createdAt": "2026-11-04T07:14:02.875Z",
       "owner": "8803520961",
       "usedBy": null
     }
