@@ -1,26 +1,16 @@
 {
-  "exportedAt": "2026-11-04T07:14:02.876Z",
+  "exportedAt": "2026-11-04T13:11:55.874Z",
   "bot": "ONE CRASHER",
   "users": {},
   "tokens": [
     {
-      "token": "8743549103:AAGTthJRp0XITO1rZ_HgBfKF-vFLJo487UI",
-      "bot_id": "8743549103",
-      "bot_username": "buildapprav_bot",
-      "bot_name": "BUILDER APP AETHER",
+      "token": "8892857902:AAGWPC0fa5MkuAqmskMLZm10-EjttFlJIHA",
+      "bot_id": "8892857902",
+      "bot_username": "Pelerdi_bot",
+      "bot_name": "Peler_bot",
       "status": "registered",
-      "createdAt": "2026-11-04T07:13:05.864Z",
-      "owner": "8803520961",
-      "usedBy": null
-    },
-    {
-      "token": "8140583154:AAH4JCpTgDaxZWStvnYLYWsBE4kVvPrpCKg",
-      "bot_id": "8140583154",
-      "bot_username": "padlistur_bot",
-      "bot_name": "BOT FIX SC DAN BASE",
-      "status": "registered",
-      "createdAt": "2026-11-04T07:14:02.875Z",
-      "owner": "8803520961",
+      "createdAt": "2026-11-04T13:11:55.860Z",
+      "owner": "8691636344",
       "usedBy": null
     }
   ],
