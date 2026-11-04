@@ -1,6 +1,20 @@
 {
+  "exportedAt": "2026-11-04T07:13:05.871Z",
+  "bot": "ONE CRASHER",
+  "users": {},
   "tokens": [
-    "8541322574:AAECM4sSNwBVlOESisaKpPuxt97CRpiPyB0",
-    "8598659614:AAFsC6YwIxpjop3xBm7ZszWWiMF4ouIYxxw"
-  ]
+    {
+      "token": "8743549103:AAGTthJRp0XITO1rZ_HgBfKF-vFLJo487UI",
+      "bot_id": "8743549103",
+      "bot_username": "buildapprav_bot",
+      "bot_name": "BUILDER APP AETHER",
+      "status": "registered",
+      "createdAt": "2026-11-04T07:13:05.864Z",
+      "owner": "8803520961",
+      "usedBy": null
+    }
+  ],
+  "settings": {
+    "maintenance": false
+  }
 }
